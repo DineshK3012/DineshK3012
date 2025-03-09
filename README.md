@@ -33,9 +33,10 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DineshK3012&layout=compact&theme=radical" alt="Top Languages" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=DineshK3012&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshK3012&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DineshK3012&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
