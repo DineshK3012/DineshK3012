@@ -24,13 +24,13 @@
 ---
 
 ## 🎯 Coding Profiles   
-<a href="https://codeforces.com/profile/dinesh_k40"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>  
-<a href="https://www.leetcode.com/dinesh_k40"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>  
-<a href="https://auth.geeksforgeeks.org/user/wwwdineshk40"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>  
+<a href="https://codeforces.com/profile/dinesh_k40" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>  
+<a href="https://www.leetcode.com/dinesh_k40" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>  
+<a href="https://auth.geeksforgeeks.org/user/wwwdineshk40" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>  
 
 ---
 
-### 📊 GitHub Stats  
+## 📶 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DineshK3012&layout=compact&theme=radical" alt="Top Languages" />
   <br>
@@ -42,7 +42,7 @@
 
 ## 📫 Connect with Me  
 
-<a href="https://linkedin.com/in/dinesh-kumar-06ab741ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://linkedin.com/in/dinesh-kumar-06ab741ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 _Or Reach Me at_
 
