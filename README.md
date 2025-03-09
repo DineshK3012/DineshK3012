@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dinesh Kumar</h1>
-<h3 align="center">Full-Stack Developer | Open Source Enthusiast</h3>
+![profile_header](./github-header-image.png)
 
 ## 🚀 About Me  
 
