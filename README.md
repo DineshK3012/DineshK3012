@@ -51,7 +51,7 @@
 
 _Or Reach Me at_
 
-📧 Email: dkum3012@gmail.com  
+📧 Email: d3012kumar@gmail.com 
 
 ---
 ⭐ **Let's connect and collaborate on exciting projects!** 🚀   
